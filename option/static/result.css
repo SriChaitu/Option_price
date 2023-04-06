@@ -1,0 +1,18 @@
+body {
+    font: 100% Verdana;
+    margin: 20px;
+    display: flex;
+    line-height: 26px;
+    background-image: linear-gradient(to right, black, rgba(255, 0, 0, 1));
+    justify-content: center;
+}
+
+.result{
+    margin-top: 250px;
+    background-color: #c4b357;
+    display: inline;
+    padding: 20px;
+    border-radius: 15px;
+    font-size: larger;
+    color: white;
+}
